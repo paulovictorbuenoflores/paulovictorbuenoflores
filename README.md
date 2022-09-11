@@ -7,10 +7,10 @@
 
 
 <table border="1">
-  <caption>- Estatísticas</caption>
+  <caption>-Estatísticas</caption>
 <tr>
 <td>
-- Top Linguagens 
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulovictorbuenoflores)](https://github.com/paulovictorbuenoflores/github-readme-stats)
 
