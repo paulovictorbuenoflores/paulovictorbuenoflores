@@ -4,9 +4,8 @@
 - 💞️ Procuro colaborar com a evolução, talvez seja a única forma de resolver nosso maior problema.
 - 📫 Contato: paulovictorflores28@gmail.com
 - 🐱‍🏍 Verdes tipos de energia, já que esse vai ser um problema do futuro.
-
 <table border="1">
-  <caption>Estatísticas</caption>
+  <caption>-Estatísticas</caption>
 <tr>
 <td>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulovictorbuenoflores)](https://github.com/paulovictorbuenoflores/github-readme-stats)
