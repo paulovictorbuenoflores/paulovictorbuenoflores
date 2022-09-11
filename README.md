@@ -1,5 +1,5 @@
 - 👋 Oi, Eu sou Paulo.
-- 👀 Estou interessado resolver problemas.
+- 👀 Estou interessado em resolver problemas.
 - 🌱 Atualmente estou aprendendo Flutter.
 - 💞️ Procuro colaborar com a evolução, talvez seja a única forma de resolver nosso maior problema.
 - 📫 Contato: paulovictorflores28@gmail.com
