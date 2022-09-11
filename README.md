@@ -6,7 +6,7 @@
 - 🐱‍🏍 Verdes tipos de energia, já que esse vai ser um problema do futuro.
 
 
-<table>
+<table border="1">
   <caption>- Estatísticas</caption>
 <tr>
 <td>
