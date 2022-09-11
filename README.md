@@ -1,0 +1,6 @@
+- 👋 Oi, Eu sou Paulo
+- 👀 Estou interessado resolver problemas
+- 🌱 Atualmente estou aprendendo Flutter
+- 💞️ Procuro colaborar com a evolução, talvez seja a única forma de resolver nosso maior problema.
+- 📫 Contato: paulovictorflores28@gmail.com
+- 🐱‍🏍 Novas tipos de energia, já que esse vai ser um problema do futuro
