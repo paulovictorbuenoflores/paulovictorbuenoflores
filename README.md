@@ -7,7 +7,7 @@
 
 
 <table border="1">
-  <caption>- Estatísticas</caption>
+  <caption> - Estatísticas </caption>
 <tr>
 <td>
 
