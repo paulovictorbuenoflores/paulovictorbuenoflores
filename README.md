@@ -5,9 +5,9 @@
 - 📫 Contato: paulovictorflores28@gmail.com
 - 🐱‍🏍 Verdes tipos de energia, já que esse vai ser um problema do futuro.
 
-
-<table border="1">
 <caption>Estatísticas </caption>
+<table border="1">
+
 <tr>
 <td>
 
@@ -16,8 +16,6 @@
 
 </td>
 <td>
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulovictorbuenoflores&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 </td>
 </tr>
