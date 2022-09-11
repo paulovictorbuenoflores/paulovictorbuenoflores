@@ -5,9 +5,9 @@
 - 📫 Contato: paulovictorflores28@gmail.com
 - 🐱‍🏍 Verdes tipos de energia, já que esse vai ser um problema do futuro.
 
-<caption>Estatísticas </caption>
 <table border="1">
 
+<thead>Estatísticas </thead>
 <tr>
 <td>
 
