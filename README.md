@@ -6,14 +6,18 @@
 - 🐱‍🏍 Verdes tipos de energia, já que esse vai ser um problema do futuro.
 
 
-
-
+<table>
+<tr>
+<td>
 - Top Linguagens 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulovictorbuenoflores)](https://github.com/paulovictorbuenoflores/github-readme-stats)
 
-
-
+</td>
+<td>
 - Estatísticas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulovictorbuenoflores&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+</td>
+</tr>
+</table>
