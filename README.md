@@ -9,7 +9,7 @@
 <tr>
 <td>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulovictorbuenoflores)](https://github.com/paulovictorbuenoflores/github-readme-stats)
+[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=paulovictorbuenoflores)](https://github.com/paulovictorbuenoflores/github-readme-stats)
 </td>
 <td>
   
@@ -17,3 +17,5 @@
 </td>
 </tr>
 </table>
+
+
