@@ -1,9 +1,10 @@
-- 👋 Oi, Eu sou Paulo.
+- 👋 Oi, Eu sou PaulO.
+- Personalidade: INTJ
 - 👀 Estou interessado em resolver problemas.
 - 🌱 Atualmente estou aprendendo Flutter.
 - 💞️ Procuro colaborar com a evolução, talvez seja a única forma de resolver nosso maior problema.
 - 📫 Contato: paulovictorflores28@gmail.com
--INTERESSES : IA, Robotica, Eletrônica, Biomecânica, Sistemas.  
+-INTERESSES : IA, Robotica, Eletrônica, Biomecânica, Sistemas...  
 <table border="1">
   <caption>-Estatísticas</caption>
 <tr>
