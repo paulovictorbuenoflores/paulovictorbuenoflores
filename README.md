@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou aprendendo Flutter.
 - 💞️ Procuro colaborar com a evolução, talvez seja a única forma de resolver nosso maior problema.
 - 📫 Contato: paulovictorflores28@gmail.com
-- 🐱‍🏍Energia limpa.
+-INTERESSES : IA, Robotica, Eletrônica, Biomecânica, Sistemas.  
 <table border="1">
   <caption>-Estatísticas</caption>
 <tr>
