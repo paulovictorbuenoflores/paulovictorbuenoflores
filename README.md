@@ -2,7 +2,7 @@
 - Personalidade: INTJ
 - 👀 Estou interessado em resolver problemas.
 - 🌱 Atualmente estou aprendendo Flutter.
-- 💞️ Procuro colaborar com a evolução, talvez seja a única forma de resolver nosso maior problema.
+- 💞️ Procuro colaborar com a evolução, talvez seja a única forma de resolver nosso maior probl  ema. 
 - 📫 Contato: paulovictorflores28@gmail.com
 -INTERESSES : IA, Robotica, Eletrônica, Biomecânica, Sistemas...  
 <table border="1">
