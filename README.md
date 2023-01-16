@@ -11,7 +11,8 @@
 <td>
 [![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=paulovictorbuenoflores)](https://github.com/paulovictorbuenoflores/github-readme-stats)
 </td>
-<td>
+<td> 
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulovictorbuenoflores&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 </td>
 </tr>
