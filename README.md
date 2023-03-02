@@ -1,4 +1,4 @@
-- 👋 Oi, Eu sou PaulO  .
+- 👋 Oi, Eu sou Paulo 
 - Personalidade: INTJ
 - 👀 Estou interessado em resolver problemas.
 - 🌱 Atualmente estou aprendendo Flutter.
